@@ -1,4 +1,4 @@
-# 📁 File/Image Upload API (CodeAlpha Project)
+# 📁 File/Image Upload API (Syntecxhub Project)
 
 A backend API built with Node.js, Express, MongoDB, and Multer for uploading and managing image files with validation and metadata storage.
 
